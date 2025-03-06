@@ -6,7 +6,7 @@ const NewsletterBox = () => {
       <p className="text-2xl font-medium text-gray-800">
         Subscribe now & get 20% off
       </p>
-      <p className="text-gray-400 mt-3">
+      <p className="text-gray-700 mt-3">
         Indulge in the finest trends, exclusives, and elegance—delivered to you.{" "}
       </p>
 
