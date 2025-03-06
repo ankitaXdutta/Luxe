@@ -6,7 +6,11 @@
 @tailwind utilities;
 
 body {
-  background-color: #d2eee2; /* Example: Light Blue Background */
+  background: linear-gradient(
+    to right,
+    #66cdaa,
+    #5aa3e0
+  ); /* Light Teal to Light Blue Gradient */
   margin: 0;
   padding: 0;
 }
